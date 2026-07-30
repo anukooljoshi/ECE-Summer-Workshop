@@ -12,7 +12,7 @@
 
 ## Part 1: What Is an LED?
 
-<img width="1388" height="1020" alt="image" src="https://github.com/user-attachments/assets/46be8159-2b26-4e88-aaab-52852298db61" />
+<img width="694" height="510" alt="image" src="https://github.com/user-attachments/assets/46be8159-2b26-4e88-aaab-52852298db61" />
 
 An **LED**, or **Light Emitting Diode**, is a small electronic component that produces light when electricity flows through it.
 
