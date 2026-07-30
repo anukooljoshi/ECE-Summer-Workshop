@@ -12,7 +12,7 @@
 
 ## Part 1: What Is a Photoresistor?
 
-[INSERT IMAGE OF PHOTORESISTOR HERE]
+<img width="182" height="168" alt="image" src="https://github.com/user-attachments/assets/b8ea156d-8d06-4e65-a3bb-246bc367c9d2" />
 
 A **photoresistor**, also called a **Light Dependent Resistor (LDR)**, is a resistor whose resistance changes depending on the amount of light reaching it.
 
@@ -56,7 +56,7 @@ Because there are many possible light levels, we can use an **analog input**.
 
 ## Pin Wiring Table
 
-[INSERT TINKERCAD PHOTORESISTOR CIRCUIT IMAGE HERE]
+
 
 In TinkerCAD, ensure that the provided circuit design template is connected like this:
 
@@ -115,7 +115,7 @@ Here, we created a variable called:
 
 The Arduino measures the voltage on A0 and stores the result inside `lightLevel`.
 
-[INSERT TINKERCAD VARIABLE BLOCK IMAGE HERE]
+<img width="432" height="304" alt="image" src="https://github.com/user-attachments/assets/93dedaf8-4477-43df-84e8-0086081cfbd8" />
 
 If the amount of light changes, the value stored in `lightLevel` will also change the next time the Arduino reads the sensor.
 
