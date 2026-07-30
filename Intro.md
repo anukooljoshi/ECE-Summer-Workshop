@@ -42,7 +42,7 @@ Throughout this workshop, we'll build circuits that follow this same basic idea.
 
 Instead of physically plugging wires into an Arduino, we can build everything on the computer.
 
-[INSERT IMAGE OF TINKERCAD CIRCUIT HERE]
+<img width="1810" height="764" alt="image" src="https://github.com/user-attachments/assets/eac0990d-dc1b-472b-b094-71c15debd3e1" />
 
 TinkerCAD allows us to:
 
@@ -79,7 +79,7 @@ For example:
 
 **5V → Resistor → LED → GND**
 
-[INSERT SIMPLE LED CIRCUIT IMAGE HERE]
+<img width="2162" height="852" alt="image" src="https://github.com/user-attachments/assets/b05d4905-8a45-4afe-b45c-36bb767d2a91" />
 
 If the path is complete, current can flow through the circuit.
 
@@ -137,7 +137,7 @@ Many simple Arduino circuits create a path like:
 
 **Arduino Pin / 5V → Component → GND**
 
-[INSERT 5V AND GND DIAGRAM HERE]
+<img width="166" height="248" alt="image" src="https://github.com/user-attachments/assets/ee43d25b-f5e6-419d-9b24-a25f8f02f1ce" />
 
 You can think of GND as the circuit's **electrical reference point** and often part of the return path for current.
 
@@ -147,7 +147,7 @@ You can think of GND as the circuit's **electrical reference point** and often p
 
 The most important component we'll use is the **Arduino Uno**.
 
-[INSERT IMAGE OF ARDUINO UNO HERE]
+<img width="1142" height="904" alt="image" src="https://github.com/user-attachments/assets/abe09f79-e13d-41a4-9a08-9763b276ed88" />
 
 An Arduino is a small **microcontroller development board**.
 
@@ -200,7 +200,7 @@ This ability to **sense → decide → respond** is what makes microcontrollers 
 
 Look around the edges of the Arduino Uno and you'll see many small connections called **pins**.
 
-[INSERT LABELED ARDUINO PIN IMAGE HERE]
+<img width="772" height="206" alt="image" src="https://github.com/user-attachments/assets/cd552783-bf25-42b1-863c-047dc0cc0e2d" />
 
 Pins allow the Arduino to communicate with other electronic components.
 
@@ -296,7 +296,7 @@ we usually mean that the Arduino is **changing an electrical voltage on one of i
 
 # 🧵 What Do Wires Do?
 
-[INSERT IMAGE OF TINKERCAD WIRES HERE]
+<img width="882" height="332" alt="image" src="https://github.com/user-attachments/assets/bc1762d8-2e24-457a-bc2b-086af8bd64a9" />
 
 Wires create **electrical connections** between different points in our circuit.
 
@@ -333,7 +333,7 @@ A common convention is:
 
 You'll also see something called a **breadboard**.
 
-[INSERT LABELED BREADBOARD IMAGE HERE]
+<img width="678" height="450" alt="image" src="https://github.com/user-attachments/assets/e224cf2f-6776-464a-8c4f-e1a3d736df84" />
 
 A breadboard allows us to connect electronic components **without soldering them together**.
 
