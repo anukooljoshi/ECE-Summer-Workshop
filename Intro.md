@@ -374,7 +374,7 @@ Each horizontal group of five holes shown above is electrically connected.
 
 That means if you connect a wire to one hole, a component placed in another hole in the **same connected group** is connected to that wire.
 
-[INSERT BREADBOARD INTERNAL CONNECTION IMAGE HERE]
+<img width="1088" height="536" alt="image" src="https://github.com/user-attachments/assets/dff18ad3-2acc-496d-a380-1b514a614e5d" />
 
 This lets us connect several components together without twisting or soldering wires.
 
@@ -421,7 +421,7 @@ and:
 
 Now components across the breadboard can easily access power and ground.
 
-[INSERT POWER RAIL IMAGE HERE]
+<img width="1650" height="184" alt="image" src="https://github.com/user-attachments/assets/8d548524-9069-4528-bc7d-4cfe5fbba9cb" />
 
 > ⚠️ Always look carefully at how the breadboard connections are arranged. Two holes that look close together are not necessarily electrically connected!
 
@@ -435,7 +435,7 @@ Imagine we connect:
 
 **Arduino Pin 8 → Resistor → LED → GND**
 
-[INSERT SIMPLE ARDUINO LED CIRCUIT HERE]
+<img width="1192" height="1216" alt="image" src="https://github.com/user-attachments/assets/64519791-9454-4648-8420-62ff80182161" />
 
 The Arduino can set pin 8 to HIGH:
 
@@ -473,7 +473,7 @@ These instructions are called **code**.
 
 In TinkerCAD, we can program the Arduino using visual **Blocks**.
 
-[INSERT IMAGE OF TINKERCAD BLOCK CODE HERE]
+<img width="894" height="780" alt="image" src="https://github.com/user-attachments/assets/4513435b-78cd-4fd6-a37e-0ee6f81191dc" />
 
 Instead of typing every command, we can drag blocks together.
 
@@ -578,8 +578,8 @@ Each lesson introduces a new component while building on concepts from previous 
 
 | Lesson | Topic             | What You'll Learn                               |
 | ------ | ----------------- | ----------------------------------------------- |
-| 1      | Servo Motor       | Angles, movement, `delay()`, and loops          |
-| 2      | LED Basics        | Outputs, HIGH/LOW, and blinking                 |
+| 1      | LED Basics        | Outputs, HIGH/LOW, and blinking                 |
+| 2      | Servo Motor       | Angles, movement, `delay()`, and loops          |
 | 3      | Push Button       | Inputs, `digitalRead()`, and `if` statements    |
 | 4      | DC Motor          | Motor control, speed, and PWM                   |
 | 5      | Photoresistor     | Analog inputs, variables, and light sensing     |
