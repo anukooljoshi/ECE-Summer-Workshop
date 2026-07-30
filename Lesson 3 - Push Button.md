@@ -12,7 +12,7 @@
 
 ## Part 1: What Is a Push Button?
 
-[INSERT IMAGE OF PUSH BUTTON HERE]
+<img width="164" height="158" alt="image" src="https://github.com/user-attachments/assets/f3c844e4-85a4-4655-b766-5d78a6d5e2ce" />
 
 A **push button** is a simple type of switch.
 
@@ -45,7 +45,7 @@ In TinkerCAD, ensure that the circuit design template is connected like this:
 | Button Signal     | **Pin 2**                        |
 | Button Other Side | **GND**                          |
 
-[INSERT TINKERCAD CIRCUIT IMAGE HERE]
+
 
 For this activity, we will use Arduino's built-in **INPUT_PULLUP** resistor for the button.
 
@@ -95,7 +95,7 @@ if (digitalRead(2) == LOW) {
 }
 ```
 
-[INSERT TINKERCAD IF BLOCK IMAGE HERE]
+<img width="360" height="250" alt="image" src="https://github.com/user-attachments/assets/c5c3c1d5-0c3a-4e2f-947d-e0d5bdb0510b" />
 
 ---
 
