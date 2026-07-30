@@ -221,7 +221,7 @@ For the second challenge, you will learn how to use a component that we have not
 
 # 16x2 LCD Display
 
-[INSERT IMAGE OF 16x2 LCD HERE]
+<img width="1186" height="554" alt="image" src="https://github.com/user-attachments/assets/36a0e738-0455-44dd-a502-bff929736844" />
 
 An **LCD**, or **Liquid Crystal Display**, allows the Arduino to display words and numbers.
 
@@ -308,7 +308,8 @@ Your TinkerCAD design may use wiring similar to this:
 | A       | **5V through resistor**  |
 | K       | **GND**                  |
 
-[INSERT LCD TINKERCAD CIRCUIT IMAGE HERE]
+<img width="1258" height="806" alt="image" src="https://github.com/user-attachments/assets/92f96f1b-88ba-460c-9acb-fa3d8771e376" />
+
 
 The LCD uses several wires because the Arduino needs to send both **commands** and **data** to the display.
 
@@ -318,7 +319,7 @@ The LCD uses several wires because the Arduino needs to send both **commands** a
 
 You may notice a **potentiometer** connected to the LCD.
 
-[INSERT POTENTIOMETER IMAGE HERE]
+<img width="218" height="234" alt="image" src="https://github.com/user-attachments/assets/4eaad053-9835-4637-8490-7e3ee7bfba79" />
 
 A potentiometer is an adjustable resistor.
 
