@@ -12,7 +12,7 @@
 
 ## Part 1: What Is an LED?
 
-[INSERT IMAGE OF LED HERE]
+<img width="1388" height="1020" alt="image" src="https://github.com/user-attachments/assets/46be8159-2b26-4e88-aaab-52852298db61" />
 
 An **LED**, or **Light Emitting Diode**, is a small electronic component that produces light when electricity flows through it.
 
@@ -36,7 +36,7 @@ Another way to think about it: an LED is like a **tiny controllable light bulb**
 
 ## Why Do We Need a Resistor?
 
-[INSERT IMAGE OF LED AND RESISTOR HERE]
+<img width="414" height="162" alt="image" src="https://github.com/user-attachments/assets/8bfc5b45-7dfd-48b0-9f9a-6af989407328" />
 
 We should not connect an LED directly between an Arduino output pin and GND.
 
@@ -55,7 +55,7 @@ In TinkerCAD, ensure that the circuit design template is connected like this:
 | Anode (+)   | **Pin 8 through 220 Ω resistor** |
 | Cathode (-) | **GND**                          |
 
-[INSERT TINKERCAD CIRCUIT IMAGE HERE]
+<img width="1686" height="912" alt="image" src="https://github.com/user-attachments/assets/6c6d33ad-5c8c-417b-9cfd-1efba5806329" />
 
 ---
 
@@ -75,7 +75,7 @@ digitalWrite(8, LOW);
 
 In TinkerCAD Blocks, this is done using the **set pin** block.
 
-[INSERT SET PIN BLOCK IMAGE HERE]
+<img width="392" height="108" alt="image" src="https://github.com/user-attachments/assets/1ecee3e8-8785-4207-885f-63d920c7e515" />
 
 * `HIGH` → Turns the LED **ON**
 * `LOW` → Turns the LED **OFF**
