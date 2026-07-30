@@ -12,7 +12,7 @@
 
 ## Part 1: What Is a DC Motor?
 
-[INSERT IMAGE OF DC MOTOR HERE]
+<img width="290" height="234" alt="image" src="https://github.com/user-attachments/assets/5b1b8ce3-813a-4dee-96de-34a2ab77932d" />
 
 A **DC motor** is a motor that continuously spins when electrical power is applied.
 
@@ -42,7 +42,6 @@ Because of this, we should **not connect the motor directly to an Arduino output
 
 Instead, we use a component such as a **transistor or motor driver**.
 
-[INSERT TINKERCAD MOTOR CIRCUIT IMAGE HERE]
 
 The transistor allows a small Arduino signal to control the larger amount of current needed by the motor.
 
